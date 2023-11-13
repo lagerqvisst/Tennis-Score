@@ -258,6 +258,8 @@ namespace TennisScore
                 Console.ResetColor();
             }
 
+            Console.ReadLine();
+
         }
 
 
