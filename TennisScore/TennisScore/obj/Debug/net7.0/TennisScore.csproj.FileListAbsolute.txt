@@ -1,0 +1,15 @@
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/bin/Debug/net7.0/TennisScore
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/bin/Debug/net7.0/TennisScore.deps.json
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/bin/Debug/net7.0/TennisScore.runtimeconfig.json
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/bin/Debug/net7.0/TennisScore.dll
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/bin/Debug/net7.0/TennisScore.pdb
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.csproj.AssemblyReference.cache
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.AssemblyInfoInputs.cache
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.AssemblyInfo.cs
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.csproj.CoreCompileInputs.cache
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.dll
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/refint/TennisScore.dll
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.pdb
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/TennisScore.genruntimeconfig.cache
+/Users/alexanderlagerqvist/Projects/TennisScore/TennisScore/obj/Debug/net7.0/ref/TennisScore.dll
